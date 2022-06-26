@@ -1,5 +1,6 @@
 const axios = require('axios');
 require('dotenv').config();
+console.log(process.env.TWITTER_BEARER_TOKEN);
 const config = {
     headers: {
         'Content-Type': 'application/json',
