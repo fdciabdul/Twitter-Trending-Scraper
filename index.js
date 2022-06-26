@@ -60,7 +60,7 @@ async function main() {
     let file = await readJSON('./trends/available.json');
     let worlwide = await trendByid(file[0].woeid);
     let README = writeTableMarkdown(file[0].country,worlwide);
-    fs.writeFile(`./trends/README.md`, README ,'utf-8', (err) => {
+    fs.writeFile(`./README.md`, README ,'utf-8', (err) => {
         if (err) {
             console.log(err);
         }
