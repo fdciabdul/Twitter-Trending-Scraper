@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  },
+  "name": "twitter-trending-scraper",
+  "description": "| Trend |\r |:---|\r | #TAEHYUNGxCeline |\r | Botafogo |\r | Kendrick |\r | #PetShopBoys |\r | Navarro |\r | Tasha |\r | #Glastonbury2022 |\r | Ole Miss |\r | Aaron Judge |\r | Anitta |\r | #BETAwards |\r | #TaehyungInParis |\r | Jacques |\r | Paige |\r | Luciano |\r | Manoel |\r | Yankees |\r | Avaí |\r | Rigoni |\r | Jorge |\r | Winker |\r | KIM TAEHYUNG |\r | Gilberto Gil |\r | Sedat Peker |\r | Vecchio |\r | Mariners |\r | Ganso |\r | Hotty Toddy |\r | Angels |\r | الشناوي |\r | Diana Ross |\r | lorde |\r | Post Malone |\r | Rasim Kaan Aytoğu |\r | Theegala |\r | ALL RISE |\r | El Espinal |\r | Neil Tennant |\r | Rony |\r | Jean Pyerre |\r | Cade Horton |\r | 秋山翔吾 |\r | Chris Lowe |\r | Copetti |\r | Astros |\r | حسام حسن |\r | Nonato |\r | Saravia |\r | ESTAMOS COM VOCÊ PA |\r | Bressan |",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdciabdul/Twitter-Trending-Scraper.git"
+  },
+  "keywords": [
+    "twitter",
+    "trending"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdciabdul/Twitter-Trending-Scraper/issues"
+  },
+  "homepage": "https://github.com/fdciabdul/Twitter-Trending-Scraper#readme"
+}
