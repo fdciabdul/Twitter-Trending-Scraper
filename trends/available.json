@@ -1,5 +1,5 @@
 {
-  "message": "Request failed with status code 500",
+  "message": "Request failed with status code 401",
   "name": "AxiosError",
   "config": {
     "transitional": {
@@ -28,6 +28,6 @@
     "method": "get",
     "url": "https://api.twitter.com/1.1/trends/available.json"
   },
-  "code": "ERR_BAD_RESPONSE",
-  "status": 500
+  "code": "ERR_BAD_REQUEST",
+  "status": 401
 }
